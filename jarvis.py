@@ -41,7 +41,7 @@ def perform_action(command):
     elif "who is sourabh bhosale" in command:
         speak(f"mr.saurabh bhosale created me he belongs to kallamb and currently persuing btech in n b n s c o e he completed his 10 in vidhya bhavan high school kallamb he completed his 12 in v p college baramati ")
     elif "who is nikhil ghodke" in command:
-        speak(f"mr. nikhil ghodke is a topper of e n t c department ,he having alot of girlfrirnd")
+        speak(f"mr. nikhil ghodke is a topper of e n t c department ")
     elif "how are you" in command:
         speak(f" i am fine whats about you")
     elif "who is your girlfriend" in command:
