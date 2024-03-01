@@ -26,7 +26,7 @@ def listen():
             print("Sorry, I didn't get that.")
             return ""
         except sr.RequestError as e:
-            print("mai nahi samja; {0}".format(e))
+            print("sorry i didn't get that. ; {0}".format(e))
             return ""
 def perform_action(command):
     if "hello" in command:
