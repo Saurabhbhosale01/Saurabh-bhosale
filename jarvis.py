@@ -43,9 +43,7 @@ def perform_action(command):
     elif "who is nikhil ghodke" in command:
         speak(f"mr. nikhil ghodke is a topper of e n t c department ")
     elif "how are you" in command:
-        speak(f" i am fine whats about you")
-    elif "who is your girlfriend" in command:
-        speak(f" mai nahi bataunga")
+        speak(f" i am fine whats about you")
     elif "what is your date of birth" in command:
         speak(f"i have no any birth day saurabh create me on fifteen feb two thousand twentyfour")
     elif "search" in command:
